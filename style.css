@@ -13,8 +13,8 @@ body {
 .dropbtn {
     background-color: #3498DB;
     color: white;
-    padding: 16px;
-    font-size: 16px;
+    padding: 20px;
+    font-size: 30px;
     border: none;
     cursor: pointer;
   }
@@ -69,11 +69,17 @@ body {
    #content {
      padding: 20px;
      background: rgba(255,255,255,.85);
+     text-align: center;
+   }
+
+   .contact {
+    text-align: left;
+    font-size: 24px;
    }
    
    h1, h2 {
      font-family: 'Times New Roman', serif;
-     color: #55c400;
+     color: #000000;
    }
    
    h1 {
@@ -88,18 +94,18 @@ body {
    
    h3 {
      font-family: 'Gabriela', serif;
-     font-size: 3em;
+     font-size: 30px;
      margin-top: .5em;
    }
    
    img {
-     max-width: 100%;
-     width: 100%;
+     max-width: 50%;
+     width: 50%;
      height: auto;
    }
    
    p {
-     font-size: 1em;
+     font-size: 24px;
    }
    
    a {
